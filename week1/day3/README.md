@@ -31,3 +31,51 @@ i still want to get used to seeing the prices as functions and returns as their 
 ## How I'll Use This
 
 I will add this to my startegies that i make in the future.
+
+# My Learning Philosophy (Updated Day 3)
+
+## What I Learned About Learning
+
+### Old Belief (Wrong)
+- I need to memorize everything
+- Googling syntax means I'm not really learning
+- I should be able to code from memory by now
+- Going faster = learning better
+
+### New Belief (Correct)
+- Understanding concepts > memorizing syntax
+- Googling is what professionals do daily
+- References are tools, not crutches
+- Going deeper = learning better
+
+## How I'll Code From Now On
+
+1. Look up examples first
+2. Understand before copying
+3. Modify for my needs
+4. Verify it works
+5. Explain in comments
+
+## How I'll Measure Progress
+
+NOT by:
+- ❌ Can I code without Googling?
+- ❌ How fast did I finish the material?
+- ❌ Do I know everything?
+
+BUT by:
+- ✅ Do I understand the concepts?
+- ✅ Can I apply them to new problems?
+- ✅ Am I building on previous days?
+- ✅ Is my code working?
+
+## Commitment to Myself
+
+I commit to:
+- Learning deeply, not quickly
+- Using references without shame
+- Comparing myself to yesterday-me, not imaginary-perfect-me
+- Trusting the 3-year process
+
+Signed: Michael Tetteh
+Date: [18/12/2025]
