@@ -6,17 +6,21 @@
 **Projects:**
 -[Day 1: BankAccount Class](week1/day1/day1_bank_account.py) - OOP fundamentals
 
--[Day 2: Derevative calc , Numpy basics](week1/day2/day2_derivative_calc.py)
+-[Day 2: Derevative calc](week1/day2/day2_derivative_calc.py) -Basic Calc
 
 -[Day 2: Numpy basics](week1/day2/day2_numpy_return.py)
+
+-[Day 3: Visualizing Derivatives](week1/day3/day3_visualizing_derivatives.py) - Basic Matplotlib
+
+-[Day 3: Stock data analysis](week1/day3/day3_stock_data.py)
 
 ---
 
 ## 🔥 Streak Tracker
 
-**Study Streak:** 2 day  
-**GitHub Commit Streak:** 2 day  
-**Distraction-Free Streak:** 2 day
+**Study Streak:** 3 day  
+**GitHub Commit Streak:** 3 day  
+**Distraction-Free Streak:** 3 day
 
 ---
 
