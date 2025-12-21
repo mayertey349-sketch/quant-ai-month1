@@ -15,7 +15,7 @@ Today I coded with documentation open and:
 
 ## Breakthrough Moments
 
-Had no breakthroughs today just confusion but i am happy that i am starting to understan the codes.
+Had no breakthroughs today just confusion but i am happy that i am starting to understand the codes.
 
 ## Still Confused About
 
