@@ -25,5 +25,5 @@ Today's confusion had to do with applying chain rule to finance and also i am a 
 
 - More practice with Pandas
 -More practice with matplotlib also
-- Introduction to probability
+- Introduction to Integration (Antiderivatives)
 - Build something that synthesizes Week 1
