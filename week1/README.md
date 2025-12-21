@@ -14,13 +14,19 @@
 
 -[Day 3: Stock data analysis](week1/day3/day3_stock_data.py)
 
+-[Day 4: Chain rule](week1/day4/day4_chain_rule.py)
+
+-[Day 4: Application to finance](week1/day4/day4_complete_comparison.py) - has problems i will fix later
+
+-[Day 4: Application to finance](week1/day4/day4_multi_stock.py)
+
 ---
 
 ## 🔥 Streak Tracker
 
-**Study Streak:** 3 day  
-**GitHub Commit Streak:** 3 day  
-**Distraction-Free Streak:** 3 day
+**Study Streak:** 4 day  
+**GitHub Commit Streak:** 4 day  
+**Distraction-Free Streak:** 4 day
 
 ---
 
