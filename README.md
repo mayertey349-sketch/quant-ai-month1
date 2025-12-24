@@ -27,3 +27,19 @@ From high school math to breakthrough quant AI. Learning Python, mathematics, fi
 - [ ] Risk-return tradeoff
 - [ ] Options basics
 
+## Major Update - December 2024
+
+🎓 **Accepted to KNUST Aerospace Engineering Program**
+
+This changes the timeline but strengthens the foundation:
+- University provides: Advanced math, physics, computational methods
+- Self-study provides: Quant-specific applications, trading systems
+- Combined approach: Best of both worlds
+
+**Adjusted plan:**
+- **During university:** 2 hours/day quant self-study (sustainable)
+- **Summers:** Intensive quant projects + internships(If any)
+- **Goal:** Aerospace engineering degree + quant AI portfolio
+- **Timeline:** 4 years instead of 3, but much stronger foundation
+
+The journey continues. Just better resourced now.
