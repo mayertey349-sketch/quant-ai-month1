@@ -22,13 +22,13 @@ class WealthAccumulator:
         Discrete compounding: V(t+1) = V(t) x (1 + r(t))
         This is what actually happens in markets.
         """
-        wealth = [self.initial_capital]
+        wealth = np.array([self.initial_capital])
         
         for r in returns:
             new_wealth = wealth[-1] * (1 + r)
-            wealth.append(new_wealth)
-        
-        return np.array(wealth)
+            wealth= np.append(wealth,new_wealth)
+            
+        return wealth
     
     def continuous_compounding(self, returns):
         """
@@ -62,8 +62,7 @@ class WealthAccumulator:
         # Plot 1: Both methods
         ax1.plot(discrete, 'b-', linewidth=2, label='Discrete Compounding (Reality)', alpha=0.7)
         ax1.plot(continuous, 'r--', linewidth=2, label='Continuous Compounding (Mathematical)', alpha=0.7)
-        ax1.set_title('Wealth Accumulation: Discrete vs Continuous Compounding', 
-                     fontsize=14, fontweight='bold')
+        ax1.set_title('Wealth Accumulation: Discrete vs Continuous Compounding',  fontsize=14, fontweight='bold')
         ax1.set_xlabel('Days')
         ax1.set_ylabel('Portfolio Value ($)')
         ax1.legend()

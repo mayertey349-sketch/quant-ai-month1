@@ -42,7 +42,7 @@ axes[1].legend()
 axes[1].grid(True , alpha=0.3)
 
 # Plot3 : Comulative Returns (Integral of Returns)
-cumulative_returns = (1 + aapl['Returns']).cumprod() - 1
+cumulative_returns = (1 +aapl['Returns']).cumprod() - 1
 axes[2].plot(aapl.index, cumulative_returns, label='Cumulative Returns', color='purple', linewidth=2)
 axes[2].axhline(y=0, color='black', linestyle='--', linewidth=1)
 axes[2].fill_between(aapl.index, cumulative_returns, 0, color='purple', alpha=0.3)
